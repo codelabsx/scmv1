@@ -1,4 +1,2 @@
-(define interp
-    (lambda (exp env)
-        (match exp
-            ())))
+#lang racket
+
